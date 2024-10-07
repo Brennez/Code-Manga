@@ -9,9 +9,3 @@ Um app pensando em todos os otakus existente no curso com a intencao de disponib
 
 - Dart
 - Flutter
-
-### Autores
-
-* C. Alexandre
-* F. Manoel
-* T. Brenne
